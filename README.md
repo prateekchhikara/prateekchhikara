@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Prateek - aka [prateekchhikara] 👋
+
+## I'm a Data Scientist, Researcher, and an Artist!!
 
 <!--
 **prateekchhikara/prateekchhikara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
