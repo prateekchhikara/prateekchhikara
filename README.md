@@ -17,19 +17,11 @@ I do research in machine learning to solve business and real-world problems. Cur
  ## Contact me:
  <p align = "center">
   <a href="https://www.instagram.com/pckraftwerk/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 100></a>
-  <a href = "https://twitter.com/pckraftwerk"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 100></a>
- <a href = "https://www.linkedin.com/in/prateekchhikara/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 100></a>
- <a href="https://www.researchgate.net/profile/Prateek-Chhikara" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="100" /></a>
- <a href = ""><img src = "" width = 100></a>
- <a href = ""><img src = "" width = 100></a>
+  <a href = "https://twitter.com/pckraftwerk"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 80></a>
+ <a href = "https://www.linkedin.com/in/prateekchhikara/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 87></a>
 </p>
 
 ---
-## ⚡ GitHub Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prateekchhikara&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prateekchhikara&theme=dark&hide_border=true" width = 400>
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekchhikara&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
