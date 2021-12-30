@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Prateek, Data Scientist and Machine Learning Researcher
+I am Prateek, a Data Scientist and a Machine Learning Researcher.
 
-I create web apps in `Java` and do research in machine learning applied to renewable energy. Currently, I work as a Back-End Developer at **[KMS Lighthouse](https://www.kmslh.com/)**. Outside of work, I also...
+I do research in machine learning to solve business and real-world problems. Currently, I am working as a Data Scientist at **[KMS Lighthouse](https://www.housing.com/)**.
 * 🎓 Study Ph.D. course of CS at **[INRTU](https://eng.istu.edu/)** under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
 * 🧠 Participate in various **hackathons** and paper contests;
 * 🌐 Design and develop websites (check our **[lab website](https://compvis.ru/)**);
