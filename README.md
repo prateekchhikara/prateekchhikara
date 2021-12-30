@@ -25,13 +25,6 @@ I do research in machine learning to solve business and real-world problems. Cur
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekchhikara&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
-
-<a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.instagram.com/pckraftwerk/" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a></p>
-
 ## 🚀💻 Technologies & Tools
 
 ### Languages
