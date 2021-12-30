@@ -16,6 +16,13 @@ I create web apps in `Java` and do research in machine learning applied to renew
 * 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
 
 ---
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prateekchhikara&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prateekchhikara&theme=dark&hide_border=true" width = 400>
+</p>
+
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
 <a href="https://www.researchgate.net/profile/Prateek-Chhikara" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="22px" /></a>
 <a href="https://www.linkedin.com/in/prateekchhikara/" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
