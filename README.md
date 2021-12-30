@@ -16,7 +16,7 @@ I do research in machine learning to solve business and real-world problems. Cur
  
  ## Contact me:
  <p align = "center">
-  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 60>
+  <a href="https://www.instagram.com/pckraftwerk/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 60></a>
   <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 60>
 </p>
 
