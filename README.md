@@ -16,8 +16,12 @@ I do research in machine learning to solve business and real-world problems. Cur
  
  ## Contact me:
  <p align = "center">
-  <a href="https://www.instagram.com/pckraftwerk/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 60></a>
-  <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 60>
+  <a href="https://www.instagram.com/pckraftwerk/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 100></a>
+  <a href = "https://twitter.com/pckraftwerk"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 100></a>
+ <a href = "https://www.linkedin.com/in/prateekchhikara/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 100></a>
+ <a href="https://www.researchgate.net/profile/Prateek-Chhikara" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="100" /></a>
+ <a href = ""><img src = "" width = 100></a>
+ <a href = ""><img src = "" width = 100></a>
 </p>
 
 ---
@@ -31,8 +35,8 @@ I do research in machine learning to solve business and real-world problems. Cur
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
-<a href="https://www.researchgate.net/profile/Prateek-Chhikara" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="22px" /></a>
-<a href="https://www.linkedin.com/in/prateekchhikara/" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+
+<a href="" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://www.instagram.com/pckraftwerk/" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a></p>
 
