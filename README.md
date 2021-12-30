@@ -17,10 +17,10 @@ I create web apps in `Java` and do research in machine learning applied to renew
 
 ---
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
-<a href="https://www.researchgate.net/profile/Nikita-Rusetskii" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="22px" /></a>
-<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://www.researchgate.net/profile/Prateek-Chhikara" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="22px" /></a>
+<a href="https://www.linkedin.com/in/prateekchhikara/" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a></p>
+<a href="https://www.instagram.com/pckraftwerk/" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a></p>
 
 ## 🚀💻 Technologies & Tools
 
