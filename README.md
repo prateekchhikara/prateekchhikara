@@ -2,12 +2,10 @@
 
 I am Prateek, a Data Scientist and a Machine Learning Researcher.
 
-I do research in machine learning to solve business and real-world problems. Currently, I am working as a Data Scientist at **[KMS Lighthouse](https://www.housing.com/)**.
-* 🎓 Study Ph.D. course of CS at **[INRTU](https://eng.istu.edu/)** under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
-* 🧠 Participate in various **hackathons** and paper contests;
-* 🌐 Design and develop websites (check our **[lab website](https://compvis.ru/)**);
-* 🌏 Go on educational trips abroad;
-* 🌱 Learn Vue.js and Typescript.
+I do research in machine learning to solve business and real-world problems. Currently, I am working as a Data Scientist at **[Housing.com](https://www.housing.com/)**.
+* 🎓 2020 B.Eng. Graduate from Thapar Institute of Engineering and Technology.
+* 🧠 Participate in various **hackathons** and competitions.
+* 🌏 Published more than 10 papers in International Journals and Conferences.
 
 ### 🏆 Recent achievements 
 * 🏆 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
@@ -38,18 +36,12 @@ I do research in machine learning to solve business and real-world problems. Cur
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
-  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
-  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
-  ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
