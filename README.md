@@ -2,6 +2,7 @@
 
 I am Prateek, a Data Scientist and a Machine Learning Researcher.
 I do research in machine learning to solve business and real-world problems. Currently, I am working as a Data Scientist at **[Housing.com](https://www.housing.com/)**.
+
 * 🎓 2020 B.Eng. Graduate from Thapar Institute of Engineering and Technology.
 * 🧠 Participate in various **hackathons** and competitions.
 * 🌏 Published more than 10 papers in International Journals and Conferences.
@@ -20,6 +21,8 @@ I do research in machine learning to solve business and real-world problems. Cur
  <a href = "https://www.linkedin.com/in/prateekchhikara/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 87></a>
 </p>
 
+![Github Follow](https://img.shields.io/github/followers/prateekchhikara?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/pckraftwerk?style=social) 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekchhikara&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
@@ -74,8 +77,6 @@ I do research in machine learning to solve business and real-world problems. Cur
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prateekchhikara.visitor-badge&left_color=red&right_color=green) 
