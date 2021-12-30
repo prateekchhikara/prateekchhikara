@@ -75,5 +75,8 @@ I do research in machine learning to solve business and real-world problems. Cur
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prateekchhikara.visitor-badge&left_color=red&right_color=green) 
 
