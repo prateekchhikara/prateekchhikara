@@ -22,6 +22,8 @@ I create web apps in `Java` and do research in machine learning applied to renew
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=prateekchhikara&theme=dark&hide_border=true" width = 400>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekchhikara&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" />
 <a href="https://www.researchgate.net/profile/Prateek-Chhikara" target="blank"><img align="left" src="icons/rg.png" alt="xtenzq" width="22px" /></a>
