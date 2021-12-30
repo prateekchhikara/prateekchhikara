@@ -16,7 +16,7 @@ I create web apps in `Java` and do research in machine learning applied to renew
 * 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
 
 ---
-
+## ⚡ GitHub Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=prateekchhikara&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=prateekchhikara&theme=dark&hide_border=true" width = 400>
@@ -65,15 +65,5 @@ I create web apps in `Java` and do research in machine learning applied to renew
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-
-
-## ⚡ GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prateekchhikara&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekchhikara&layout=compact&count_private=true&theme=gruvbox" />
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
