@@ -34,7 +34,7 @@ I do research in machine learning to solve business and real-world problems. Cur
 
 ## 🚀💻 Technologies & Tools
 
-![Git]
+![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
