@@ -13,6 +13,14 @@ I do research in machine learning to solve business and real-world problems. Cur
 * 🥉 2020 **IEEE Seoul Section Student Paper Contest** Bronze Award (as 2nd author);
 * 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
  -->
+ 
+ ## Contact me:
+ ----------------
+ <p align = "center">
+  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 400>
+  <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 400>
+</p>
+
 ---
 ## ⚡ GitHub Stats
 <p align = "center">
