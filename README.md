@@ -1,7 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I am Prateek, a Data Scientist and a Machine Learning Researcher.
-
 I do research in machine learning to solve business and real-world problems. Currently, I am working as a Data Scientist at **[Housing.com](https://www.housing.com/)**.
 * 🎓 2020 B.Eng. Graduate from Thapar Institute of Engineering and Technology.
 * 🧠 Participate in various **hackathons** and competitions.
