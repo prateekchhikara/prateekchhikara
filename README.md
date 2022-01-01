@@ -76,11 +76,8 @@ I do research in machine learning to solve business and real-world problems. Cur
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prateekchhikara&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prateekchhikara&theme=dark&hide_border=true" width = 400>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prateekchhikara&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+\
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prateekchhikara.visitor-badge&left_color=red&right_color=green) 
 
