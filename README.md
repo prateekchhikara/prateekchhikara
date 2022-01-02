@@ -19,6 +19,7 @@ I do research in machine learning to solve business and real-world problems. Cur
   <a href="https://www.instagram.com/pckraftwerk/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 95></a>
   <a href = "https://twitter.com/pckraftwerk"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width = 80></a>
  <a href = "https://www.linkedin.com/in/prateekchhikara/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 87></a>
+ <a href="https://medium.com/@prateekchhikara/"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width=78></a>
 </p>
 
 ![Github Follow](https://img.shields.io/github/followers/prateekchhikara?style=social)
