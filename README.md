@@ -1,13 +1,13 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am Prateek, a Master of Science student in Computer Science at USC's Viterbi School of Engineering, I bring a wealth of experience and knowledge to the table. With over two years of professional experience as a Data Scientist in the real-estate industry, I am well-versed in advanced analytics, machine learning, and computer vision. My expertise in these areas, combined with my ability to solve complex problems through data, has led to the publication of 16 research papers in top-tier conferences and journals with over 250 citations.
+I am Prateek, a Master of Science student in Computer Science at USC's Viterbi School of Engineering. With around three years of professional experience as a Data Scientist in the real-estate industry, I am well-versed in advanced analytics, machine learning, and computer vision. My expertise in these areas, combined with my ability to solve complex problems through data, has led to the publication of 20+ research papers in top-tier conferences and journals with over 400 citations.
 
 I am passionate about staying up-to-date with the latest developments in Artificial Intelligence and Machine Learning, and apply this curiosity to learn new approaches and tools. This drive has allowed me to act as a liaison between development, analytics, and business teams. As a person who values empathy and collaboration, I am a team player and have contributed to the successful execution of multiple projects at my previous organization.
 
-* 🎓 2024 M.Sc. Graduate Student University of Southern California, USA.
-* 🎓 2020 B.Eng. Graduate from Thapar Institute of Engineering and Technology, India.
+* 🎓 2024 M.Sc. Graduate Student -- University of Southern California, USA.
+* 🎓 2020 B.Eng. Graduated -- Thapar Institute of Engineering and Technology, India.
 * 🧠 Participate in various **hackathons** and competitions.
-* 🌏 Published more than 16 papers in International Journals and Conferences. [https://scholar.google.com/citations?user=RQTJ_aIAAAAJ&hl=en&oi=ao]
+* 🌏 Published more than 20 papers in International Journals and Conferences. [https://scholar.google.com/citations?user=RQTJ_aIAAAAJ&hl=en&oi=ao]
 
 Personal Website: https://www.prateekchhikara.com/ \
 Medium Account: https://medium.com/@prateekchhikara
